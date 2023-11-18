@@ -1,0 +1,18 @@
+[
+    {
+        "username": "sadek",
+        "full_name": "Sadek MD",
+        "password": "aaaaaA1",
+        "sex": "male",
+        "region": "Akkar",
+        "birth_date": "2023-11-20"
+    },
+    {
+        "username": "tosa",
+        "full_name": "tosa ajousa",
+        "password": "286286iF",
+        "sex": "male",
+        "region": "Mount Lebanon",
+        "birth_date": "1970-08-26"
+    }
+]
