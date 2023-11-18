@@ -54,6 +54,11 @@
       width: 300px;
       height: 300px;
       object-fit: cover;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .click:hover img {
+       transform: scale(1.1);
     }
 
     .modal {
