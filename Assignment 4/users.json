@@ -14,5 +14,13 @@
         "sex": "male",
         "region": "Mount Lebanon",
         "birth_date": "1970-08-26"
+    },
+    {
+        "username": "Jaime",
+        "full_name": "Jaime Lannister",
+        "password": "KINGslayer1",
+        "sex": "male",
+        "region": "Mount Lebanon",
+        "birth_date": "1980-12-06"  
     }
 ]
